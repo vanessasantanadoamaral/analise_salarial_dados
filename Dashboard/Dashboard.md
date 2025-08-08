@@ -1,0 +1,1 @@
+[Clique aqui para acessar o dashboard](https://salario-dados.streamlit.app/)
